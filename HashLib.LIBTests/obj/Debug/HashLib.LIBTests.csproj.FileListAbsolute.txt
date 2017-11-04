@@ -1,9 +1,0 @@
-D:\__PROJECTS\HashLib\HashLib.LIBTests\bin\Debug\HashLib.LIBTests.dll
-D:\__PROJECTS\HashLib\HashLib.LIBTests\bin\Debug\HashLib.LIBTests.pdb
-D:\__PROJECTS\HashLib\HashLib.LIBTests\bin\Debug\HashLib.LIB.dll
-D:\__PROJECTS\HashLib\HashLib.LIBTests\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
-D:\__PROJECTS\HashLib\HashLib.LIBTests\bin\Debug\HashLib.LIB.pdb
-D:\__PROJECTS\HashLib\HashLib.LIBTests\obj\Debug\HashLib.LIBTests.csprojResolveAssemblyReference.cache
-D:\__PROJECTS\HashLib\HashLib.LIBTests\obj\Debug\HashLib.LIBTests.csproj.CoreCompileInputs.cache
-D:\__PROJECTS\HashLib\HashLib.LIBTests\obj\Debug\HashLib.LIBTests.dll
-D:\__PROJECTS\HashLib\HashLib.LIBTests\obj\Debug\HashLib.LIBTests.pdb
